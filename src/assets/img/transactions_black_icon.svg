@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="21" viewBox="0 0 23 21">
+  <g id="transactions_black_icon" transform="translate(-1028 -302)">
+    <path id="Retângulo_21" data-name="Retângulo 21" d="M0,0H2A0,0,0,0,1,2,0V7A1,1,0,0,1,1,8H1A1,1,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(1033 313)"/>
+    <path id="Retângulo_22" data-name="Retângulo 22" d="M0,0H2A0,0,0,0,1,2,0V7A1,1,0,0,1,1,8H1A1,1,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(1046 312) rotate(180)"/>
+    <path id="Polígono_3" data-name="Polígono 3" d="M5.143,1.429a1,1,0,0,1,1.715,0l4.234,7.056A1,1,0,0,1,10.234,10H1.766A1,1,0,0,1,.909,8.486Z" transform="translate(1028 302)"/>
+    <path id="Polígono_4" data-name="Polígono 4" d="M5.143,1.429a1,1,0,0,1,1.715,0l4.234,7.056A1,1,0,0,1,10.234,10H1.766A1,1,0,0,1,.909,8.486Z" transform="translate(1051 323) rotate(180)"/>
+  </g>
+</svg>
