@@ -57,16 +57,17 @@ export const AsideBar = () => {
 
 const Aside = styled.aside`
   height: 95%;
-  min-width: 315px;
+  min-width: 300px;
 
   background-color: #fff;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
-  border-radius: 30px;
-  margin: auto 45px;
+  border-radius: 20px;
+
+  margin: auto 0;
+  margin-left: 45px;
 
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   flex-direction: column;
 `;
 
@@ -85,14 +86,14 @@ const ProfileArea = styled.div`
 
 const ProfileImage = styled.img`
   background: #292d44;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
 
   margin-bottom: 20px;
 `;
 const WellcomeMessage = styled.span`
-  color: #b2b2b2;
+  color: #79797b;
   font-size: 1.8rem;
 `;
 const ProfileName = styled.span`
@@ -115,7 +116,7 @@ const BudgetText = styled.span`
   display: block;
   text-align: center;
   margin-top: 10px;
-  color: #b2b2b2;
+  color: #79797b;
   font-weight: 500;
 `;
 
@@ -130,7 +131,7 @@ const NavList = styled.ul`
   flex-direction: column;
   font-size: 1.6rem;
   font-weight: 500;
-  color: #b2b2b2;
+  color: #79797b;
 `;
 
 const NavItem = styled.li`

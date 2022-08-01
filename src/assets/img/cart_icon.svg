@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8.498" height="8.025" viewBox="0 0 8.498 8.025">
+  <g id="cart_icon" transform="translate(0 0.5)">
+    <g id="Grupo_6" data-name="Grupo 6">
+      <g id="Grupo_5" data-name="Grupo 5" transform="translate(1.092 0.451)">
+        <ellipse id="Elipse_7" data-name="Elipse 7" cx="0.745" cy="0.745" rx="0.745" ry="0.745" transform="translate(4.671 5.585)" fill="#0a0a0a"/>
+        <ellipse id="Elipse_8" data-name="Elipse 8" cx="0.745" cy="0.745" rx="0.745" ry="0.745" transform="translate(0.576 5.585)" fill="#0a0a0a"/>
+        <g id="Grupo_4" data-name="Grupo 4">
+          <path id="Caminho_95" data-name="Caminho 95" d="M1243.347,595.9s-3.762-.009-4.524,0-.927-.578-.642-.968.517-.741.517-.741l-1.547-3.093H1244l-1.649,3.093h-3.885" transform="translate(-1237.097 -591.063)" fill="none" stroke="#0a0a0a" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Caminho_96" data-name="Caminho 96" d="M-3.547-.984H3.382L1.718,2.151H-1.953Z" transform="translate(3.547 0.984)" fill="#0a0a0a"/>
+        </g>
+      </g>
+      <path id="Caminho_97" data-name="Caminho 97" d="M1233.984,589.718l-.579-.929h-.886" transform="translate(-1232.519 -588.79)" fill="none" stroke="#0a0a0a" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
